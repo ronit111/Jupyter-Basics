@@ -1,3 +1,3 @@
 # Jupyter Basics
 
-In this guided project, we work with the same dataset, compiled by FiveThirtyEight.
+In this guided project, we work with US Births dataset, compiled by FiveThirtyEight.

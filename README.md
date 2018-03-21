@@ -1,6 +1,6 @@
 # US Births
 
-In this guided project, we work with US Births dataset, compiled by FiveThirtyEight.
+In this guided project of DataQuest, we work with US Births dataset, compiled by FiveThirtyEight.
 
 Here are some suggestions for next steps:
 
